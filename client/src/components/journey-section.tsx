@@ -12,27 +12,28 @@ interface TimelineItem {
 
 const timelineItems: TimelineItem[] = [
   {
-    title: "Master's in AI/ML",
-    period: "2023 - Present",
-    institution: "Stanford University",
+    title: "Master's in Robotics & AI",
+    period: "2024 - Present",
+    institution: "Indian Institute of Technology, Guwahati",
     description: "Currently pursuing advanced coursework in machine learning, deep learning, and neural networks. Specializing in computer vision and natural language processing with hands-on research experience in developing scalable AI solutions.",
     tags: ["Research", "Deep Learning", "Computer Vision"],
     color: "blue"
   },
   {
-    title: "Software Engineer Intern",
-    period: "Summer 2023",
-    institution: "TechCorp AI Division",
+    title: "Software Engineer",
+    period: "2022 - 2023",
+    institution: "Gagan Freight Carriers India",
     description: "Developed and deployed machine learning models for production use, reducing processing time by 40%. Collaborated with cross-functional teams to integrate AI capabilities into existing software products, gaining valuable experience in MLOps and scalable system design.",
     tags: ["Python", "TensorFlow", "AWS", "Docker"],
     color: "green"
   },
   {
-    title: "Bachelor's in CS",
-    period: "2019 - 2023",
-    institution: "UC Berkeley",
-    description: "Graduated Magna Cum Laude with a strong foundation in algorithms, data structures, and software engineering. Discovered my passion for AI through coursework in machine learning and data science, leading multiple student projects that combined traditional software development with emerging AI technologies.",
-    tags: ["Algorithms", "Data Structures", "Software Engineering"],
+    title: "B.Tech in Mechanical Engineering",
+    period: "2018 - 2022",
+    institution: "National Institute of Technology, Jalandhar",
+    description: "Graduated with a Bachelor’s in Mechanical Engineering, developing strong foundations in mathematics, computational problem-solving, and analytical thinking. Gained experience with programming, simulations, and optimization, which sparked my transition into software and AI.",
+    tags: ["Mathematics","Programming", "Problem Solving", "Optimization"],
+
     color: "orange"
   }
 ];

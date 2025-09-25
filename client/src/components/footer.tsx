@@ -20,7 +20,7 @@ export function Footer() {
         <div className="grid md:grid-cols-3 gap-8">
           <div>
             <h3 className="text-xl font-bold mb-4 text-github-blue" data-testid="text-footer-name">
-              Alex Chen
+               Vishal Chand
             </h3>
             <p className="text-muted leading-relaxed" data-testid="text-footer-description">
               Passionate about creating intelligent solutions that make a meaningful impact. 
@@ -92,7 +92,7 @@ export function Footer() {
                 <Linkedin className="h-5 w-5" />
               </a>
               <a
-                href="mailto:alex.chen@university.edu"
+                href="mailto:vchand0808@gmail.com"
                 className="bg-muted/20 hover:bg-red-600 p-3 rounded-full transition-colors duration-200"
                 data-testid="link-footer-email"
               >
@@ -119,7 +119,7 @@ export function Footer() {
         
         <div className="border-t border-muted/20 mt-8 pt-8 text-center text-muted">
           <p data-testid="text-footer-copyright">
-            &copy; 2024 Alex Chen. Designed and built with passion for AI and great user experiences.
+            &copy; 2024 Vishal Chand. Designed and built with passion for AI and great user experiences.
           </p>
           <p className="mt-2 text-sm" data-testid="text-footer-tech-stack">
             Built with React, Tailwind CSS, and powered by curiosity.
